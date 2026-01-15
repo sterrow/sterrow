@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @sterrow
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning how to code on javascript
-- 💞️ I’m looking to collaborate on any learning opportunity
 
 
 <!---
